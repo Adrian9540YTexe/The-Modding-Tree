@@ -1,6 +1,6 @@
 let modInfo = {
-	name: "The ??? Tree",
-	id: "mymod",
+	name: "The e Tree",
+	id: "ddd",
 	author: "nobody",
 	pointsName: "points",
 	discordName: "",
@@ -12,7 +12,7 @@ let modInfo = {
 
 // Set your version in num and name
 let VERSION = {
-	num: "0.0",
+	num: "69.420.1337",
 	name: "Literally nothing",
 }
 
